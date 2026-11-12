@@ -1,0 +1,3 @@
+Name: Bindu
+Email: Bindu@example.com
+Role: Contributor
